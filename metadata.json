@@ -1,0 +1,8 @@
+{
+  "name": "Cardinal The Sea Villa — Luxury Holiday Rental in Goa",
+  "description": "Cardinal The Sea Villa is a luxury 4-bedroom villa with private pool in Nerul, Candolim, North Goa. Handcrafted by Cardinal Stays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
